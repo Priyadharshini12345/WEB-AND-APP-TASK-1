@@ -1,0 +1,37 @@
+body{
+background-image:url('https://lh3.googleusercontent.com/ysniY98woviZlwHa9d23BcnWIsZjQWc_HPyNxfvM8wWDYx2pEDAkRgofSxhDp2eFYljkOrqbiEKKNmp5H7gjyj6Uw-Ll=w1000');
+}
+h1{
+font-size:50px;
+color:blue;
+width:1500px;
+height:50px;
+background-color:lightgray;
+text-align:center;
+opacity:0.5;
+}
+div{
+width:300px;
+height:650px;
+background-color:lightpink;
+opacity:0.5;
+color:black;
+font-size:25px;
+border:5px solid green;
+display:inline-block;
+}
+h3{
+color:red;
+text-align:center;
+}
+button{
+width:100px;
+height:50px;
+background-color:aqua;
+color:blue;
+font-size:25px;
+border:2px solid black;
+opacity:0.5;
+text-align:center;
+float:left;
+}
